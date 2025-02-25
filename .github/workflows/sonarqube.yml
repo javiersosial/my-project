@@ -1,0 +1,3 @@
+jobs:
+  sonarqube:
+    runs-on: self-hosted
